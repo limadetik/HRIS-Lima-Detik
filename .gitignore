@@ -3,3 +3,5 @@ node_modules
 .vite
 .DS_Store
 npm-debug.log*
+npm install
+npm run dev
